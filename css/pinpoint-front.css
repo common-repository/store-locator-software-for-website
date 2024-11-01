@@ -1,0 +1,50 @@
+/*======= For Pinpoint Locator Frontend area =======*/
+.pinpoint_searchformcontainer{
+	width: 95%; 
+	border:1px solid #000000;
+	padding: 10px;
+	border-radius: 5px;
+}
+.pinpoint_fieldcontainer{
+	padding: 10px 2px;
+}
+.pinpoint_locatortitle{ width: 95%; margin: 0px auto; text-align: center; }
+label.pinpoint_fieldname{ float: left; text-align: right; 
+	padding-right: 10px; width: 35%; 
+	line-height: 30px;  }
+.pinpoint_fieldcontrol{ float: left; width: 65%; }
+.pinpoint_fieldclear{ clear: both; }
+.pinpoint_error{
+	color: #ff0000;
+	font-weight: bold;
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+	padding: 5px 0px;
+}
+.pinpoint_resetbtncontainer{ 
+	padding: 5px;
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+}
+#pinpoint_loader{  
+    background: none;
+    border: 0 solid #00000B;
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    margin-left: -28px;
+    margin-top: -28px;
+    left: 50%;
+    top: 50%;
+    display: none;
+    z-index: 99999; }
+#pinpoint_overlaycontainer{ position: absolute; width: 100%; height: 100%; display: none; z-index: 9998;
+background: #e9e9e9;
+top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: .5;
+ }

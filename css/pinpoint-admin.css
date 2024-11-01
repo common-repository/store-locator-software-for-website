@@ -1,0 +1,57 @@
+.pinpoint_admin_container{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	width: 90%;
+}
+
+.pinpoint_admin_container h1{
+	font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: 9px 0 4px 0;
+    line-height: 1.3;
+}
+.pinpoint_admin_container p{
+	font-size: 15px;
+}
+.pinpoint-clear{ clear: both; }
+.pinpoint-menu a{
+	font-size: 15px;
+}
+.pinpointdatacontainer{
+	background: #ffffff;
+	border:1px solid #235a81;
+	border-radius: 5px;
+	padding: 0px 10px;
+	margin-top: 10px;
+}
+.pinfieldcontainer{ padding-bottom: 13px; }
+label.pinfieldname{
+	float: left;
+	width: 180px;
+	text-align: right;
+	padding-right: 7px;
+	font-size: 16px;
+	line-height: 34px;
+}
+.pinfieldcontrol{ float:left; }
+.pinfieldcontrol input[type="text"]{ 
+	border:1px solid #ced4da; 
+	border-radius: 3px; 
+	padding: .250rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+}
+.bigctrl input[type="text"]{ width: 600px; }
+.smallctrl input[type="text"]{ width: 300px; }
+.smallctrl input[type="button"]{
+	padding:6px 20px;
+	font-weight: bold;
+}
+#storeliststable{ font-size: 15px !important; /*padding: 1px; border:1px solid #235a81; background: #ffffff; */margin-top: 5px; }
+     .pagination1>.active>a,.pagination1>.active>a:hover,.pagination1>.active>span,.pagination1>.active>span:focus,.pagination1>.active>span:hover,.pagination1>li.active>a:focus{text-decoration:none!important;font-weight:700!important;color:#235a81!important;background-color:#bbb!important;border-radius:2px}.pagination-lg>li:first-child>a,.pagination-lg>li:first-child>span{border-radius:5px!important}.pagination-lg>li>a,.pagination-lg>li>span{padding:8px 12px!important;font-size:17px!important;line-height:1.3333333!important}.pagination1>li>a:focus,.pagination1>li>a:hover,.pagination1>li>span:focus,.pagination1>li>span:hover{z-index:2;color:#000!important}.pagination1>li>a,.pagination1>li>span{border-color:transparent!important;border-radius:5px!important;color:#000!important}.pagination1 a:before{content:""!important}ul.pagination1 li{display:inline-block!important;margin-right:3px}table#storeliststable thead tr th{color:#235a81;background:#bbb;line-height:26px}table#storeliststable tr td{padding:8px}table#storeliststable tbody tr td{min-height:22px} a.delaction, a.delaction:visited{ color: #ff0000; }
+
+
